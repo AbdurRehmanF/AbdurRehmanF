@@ -29,9 +29,9 @@ I'm currently a Full-Stack Developer at **Global Connect Synergy (GCS)**. Previo
 | --- | --- |
 | **TrackMe** | Attendance and payroll features across a Next.js admin portal and a React Native/Expo app, with supporting API and database workflows. |
 | **POS System** | Desktop point-of-sale workflows for inventory, purchasing, expenses, and restaurant orders using Next.js, Electron, Prisma, and SQLite. |
-| **Pitchfound** | Full-stack development, responsive interfaces, performance improvements, and AI-assisted content-generation workflows. |
+| **[Pitchfound](https://www.pitchfound.com/)** | Full-stack development, responsive interfaces, performance improvements, and AI-assisted content-generation workflows. |
 | **Sitaar** | Interfaces for an AI music app, including a Howler.js audio player, prompt-based music creation, and track management. |
-| **ApnaPlaza** | Work across website, dashboard, and backend applications, using Node.js, Express, and MongoDB on the backend. |
+| **[ApnaPlaza](https://apnaplaza.store/)** | Work across website, dashboard, and backend applications, using Node.js, Express, and MongoDB on the backend. |
 | **[The Creative Unit](https://www.thecreativeunit.com/)** | A responsive corporate website with attention to navigation, performance, and mobile usability. |
 | **[Fleck Publisher](https://fleckpublisher.com/)** | A publishing-services website with service pages, lead-generation forms, FAQs, and mobile-friendly layouts. |
 | **[Velivs](https://velivs.com/)** | A Next.js and TypeScript website, with work on SEO, analytics integration, and contact features. |
